@@ -13,7 +13,7 @@
 - 💻 &nbsp; Python | Java | R
 - 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind
 - 🤖 &nbsp; TensorFlow | Scikit-Learn | NumPy | Matplotlib | Pandas
-- 🔧 &nbsp; Visual Studio Code | Jupyter Notebooks | Pycharm | IntelliJ | Eclipse
+- 🔧 &nbsp; Neovim | Jupyter Notebooks | Pycharm | IntelliJ
 
 <h3> 🤝🏻 Connect with Me </h3>
 
